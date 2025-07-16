@@ -20,15 +20,6 @@ I'm especially interested in **AI integrations**, **Web3/blockchain systems**, a
 
 ---
 
-## 🧠 What I'm Working On
-
-- Building **AI-powered web apps** with model selection features and data-driven UX.
-- Developing **Web3 dApps** with token-based systems, smart contracts, and blockchain integrations.
-- Creating **developer tools** like browser extensions, Figma plugins, and real-time dashboards.
-- Mentoring developers and sharing daily tips on JavaScript, TypeScript, and performance optimization.
-
----
-
 ## 🌐 Let's Connect
 
 I'd love to connect, collaborate, or just chat about tech. Reach out through any of the platforms below:
