@@ -2,11 +2,6 @@
 
 **Senior Full Stack Developer | MERN Stack Expert | Web3 & AI Explorer**
 
-I'm a passionate developer with over **9 years of experience** crafting full stack applications using **modern JavaScript**, **TypeScript**, and **cutting-edge web technologies**. My core strength lies in developing scalable solutions with clean architecture, advanced UI/UX, and seamless backend APIs.
-
-I'm especially interested in **AI integrations**, **Web3/blockchain systems**, and building tools that solve real-world problems.
-
----
 
 ## 🚀 Tech Stack & Expertise
 
