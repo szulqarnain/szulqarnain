@@ -28,13 +28,6 @@ I'd love to connect, collaborate, or just chat about tech. Reach out through any
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szulqarnain&show_icons=true&theme=tokyonight&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szulqarnain&layout=compact&theme=tokyonight)
-
----
 
 ## 💬 Fun Fact
 
