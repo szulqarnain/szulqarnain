@@ -15,19 +15,6 @@
 
 ---
 
-## 🌐 Let's Connect
-
-I'd love to connect, collaborate, or just chat about tech. Reach out through any of the platforms below:
-
-- 🔗 [LinkedIn](https://linkedin.com/in/szulqarnain)
-- 🐦 [Twitter (X)](https://twitter.com/zulqarnain_dev)
-- 💻 [GitHub](https://github.com/szulqarnain)
-- 📸 [Instagram](https://instagram.com/zulqarnain.says)
-- 📘 [Facebook](https://facebook.com/zulqarnain.says)
-- 📺 [YouTube - Stack Studio](https://youtube.com/@thestackstudio)
-
----
-
 
 ## 💬 Fun Fact
 
